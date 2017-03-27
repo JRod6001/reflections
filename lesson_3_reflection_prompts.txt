@@ -25,4 +25,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Changes in a separate branch would allow for experimental new features/fixes to be tested,  without interfering with the integrity of the master. The downside of branching is some of the complications merging may bring.
